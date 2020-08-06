@@ -1,8 +1,8 @@
-set host=hboard.gentus.com.br
+set host=localhost
 set port=5432
 set dataBaseName=hForms
 set userName=postgres
-set password=hd4p!
+set password=123456
 set pathPgDump="c:\Program Files\PostgreSQL\10\bin\"
 set pathSave=d:\backup\DataBase
 
