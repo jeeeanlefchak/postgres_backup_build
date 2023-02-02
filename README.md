@@ -1,1 +1,1 @@
-Postgres backup and restore .batch
+Postgres backup and restore, angular build .batch
